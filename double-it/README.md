@@ -2,7 +2,7 @@
 
 #### _A simple application that doubles your input_
 
-#### By _**Anduin**_
+#### By _**Anduin Mooney**_
 
 ## Description
 
@@ -11,7 +11,8 @@ _A simple application made with Java that doubles the user input_
 ## Setup/Installation Requirements
 
 * _Clone repository_
-* _Launch index.html_
+* _Launch IntelliJ_
+* _Run App.java_
 
 ## Known Bugs
 
